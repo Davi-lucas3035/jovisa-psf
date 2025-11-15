@@ -50,7 +50,7 @@ const Contact = () => {
               <div className="p-6">
                 {/* Profile Image */}
                 <div className="w-28 h-28 mx-auto mb-4 rounded-full bg-white border-4 border-blue-600 flex items-center justify-center overflow-hidden p-4">
-                  <img src={logoJovisa} alt="Jovisa Logo" className="w-15 h-15 object-contain" />
+                  <img src={logoJovisa} alt="Jovisa Logo" className="w-full h-full object-contain" />
                 </div>
 
                 {/* Text Content */}
