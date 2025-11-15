@@ -51,7 +51,7 @@ const Testimonials = () => {
           {/* Left - Title and Profile */}
           <div>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight mb-12">
-              COMENTÁRIOS<br />DE SERVOS
+              COMENTÁRIOS<br />DE SERVOS e AMIGOS
             </h2>
 
             {/* Profile Section */}
