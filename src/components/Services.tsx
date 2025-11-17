@@ -32,7 +32,7 @@ const Services = () => {
               </p>
               
               <p className="text-sm text-background/70 leading-relaxed">
-                Texto de Bruna Oleyer ( Melhor amiga da Maria Eduarda).
+                Texto de Bruna Dayer ( Melhor amiga da Maria Eduarda).
               
                 Era uma vez um texto ←
               </p>
