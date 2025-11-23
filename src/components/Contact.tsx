@@ -69,7 +69,7 @@ const Contact = () => {
                 {/* Heart */}
                 <div className="flex items-center justify-center gap-1 text-red-600">
                   <Heart className="w-5 h-5 fill-current" />
-                  <span className="text-sm font-medium">0</span>
+                  <span className="text-sm font-medium">170</span>
                 </div>
               </div>
             </div>
