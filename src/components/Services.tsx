@@ -34,7 +34,10 @@ const Services = () => {
               <p className="text-sm text-background/70 leading-relaxed">
                 Texto de Bruna Dayer ( Melhor amiga da Maria Eduarda).
               
-                Era uma vez um texto ←
+                Amiga, que Deus cuide sempre do seu coração e que Nossa Senhora te cubra com o manto dela todos os dias. 
+                Você é um presente lindo que Ele colocou na minha vida. Que nunca falte paz, luz e doçura no seu caminho! 
+                Deus lhe pague por tudo que fez por mim e ainda faz, pra sempre minha duplinha de Intercessão, te amo! 💗
+
               </p>
             </div>
           </div>
