@@ -5,6 +5,7 @@ import { useGoogleDriveImages } from "@/hooks/useGoogleDriveImages";
 import { DRIVE_FOLDERS } from "@/config/googleDrive";
 import { getThumbnailUrl } from "@/services/googleDriveService";
 import { Skeleton } from "@/components/ui/skeleton";
+import marbleBackground from "@/assets/marble-background.jpg";
 
 const Portfolio = () => {
   const [api, setApi] = useState<CarouselApi>();
@@ -19,7 +20,11 @@ const Portfolio = () => {
   };
 
   return (
-    <section id="galeria" className="py-20 md:py-32">
+    <section 
+      id="galeria" 
+      className="py-20 md:py-32 bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: `url(${marbleBackground})` }}
+    >
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Left - Title and Description */}
