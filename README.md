@@ -2,14 +2,6 @@
 
 # 🐟📿 Site Web para fotos do Jovisa
 
-![GitHub Repo stars](https://img.shields.io/github/stars/AlissonFelCosta/jovisa?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AlissonFelCosta/jovisa?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/AlissonFelCosta/jovisa?style=social)
-![GitHub issues](https://img.shields.io/github/issues/AlissonFelCosta/jovisa)
-![GitHub last commit](https://img.shields.io/github/last-commit/AlissonFelCosta/jovisa)
-![GitHub language count](https://img.shields.io/github/languages/count/AlissonFelCosta/jovisa)
-![GitHub repo size](https://img.shields.io/github/repo-size/AlissonFelCosta/jovisa)
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
