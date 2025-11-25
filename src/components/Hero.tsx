@@ -10,6 +10,7 @@ import { useGoogleDriveImages } from "@/hooks/useGoogleDriveImages";
 import { DRIVE_FOLDERS } from "@/config/googleDrive";
 import { getThumbnailUrl } from "@/services/googleDriveService";
 import { Skeleton } from "@/components/ui/skeleton";
+import marbleBackground from "@/assets/marble-background.jpg";
 
 const Hero = () => {
   const [api, setApi] = useState<CarouselApi>();
@@ -19,18 +20,20 @@ const Hero = () => {
   const scrollNext = () => api?.scrollNext();
 
   return (
-    <section id="momentos" className="pt-32 pb-20">
+    <section 
+      id="momentos" 
+      className="pt-32 pb-20 bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: `url(${marbleBackground})` }}
+    >
       <div className="container mx-auto px-4 max-w-7xl">
         {/* Titles */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-          <div className="flex flex-col">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight whitespace-nowrap">
-              SOMOS PARA DEUS O BOM PERFUME DE CRISTO
-            </h1>
-            <p className="text-right text-sm mt- pr-1 opacity-100">
-              2 Coríntios 2:15
-            </p>
-          </div>
+        <div className="flex flex-col items-center text-center mb-12">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight mb-4 max-w-4xl">
+            SOMOS PARA DEUS O BOM PERFUME DE CRISTO
+          </h1>
+          <p className="text-sm opacity-70 italic">
+            2 Coríntios 2:15
+          </p>
         </div>
 
         {/* Carousel */}
