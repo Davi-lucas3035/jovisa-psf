@@ -27,7 +27,7 @@ const Hero = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight whitespace-nowrap">
               SOMOS PARA DEUS O BOM PERFUME DE CRISTO
             </h1>
-            <p className="text-right text-sm mt-2 pr-1 opacity-80">
+            <p className="text-right text-sm mt- pr-1 opacity-100">
               2 Coríntios 2:15
             </p>
           </div>
