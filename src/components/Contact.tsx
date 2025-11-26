@@ -55,7 +55,7 @@ const Contact = () => {
 
                 {/* Text Content */}
                 <div className="text-center mb-4">
-                  <h3 className="text-red-600 font-bold text-lg mb-3">Me Chamo Jovisa</h3>
+                  <h3 className="text-red-600 font-bold text- mb-3">Me Chamo Jovisa</h3>
                   <p className="text-sm text-foreground/80 leading-relaxed">
                     Sou da Paróquia Sagrada Família<br />
                     Sou de 1 julho de 2001<br />
