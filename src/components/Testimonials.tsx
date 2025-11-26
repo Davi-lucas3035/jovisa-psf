@@ -21,7 +21,7 @@ const Testimonials = () => {
 >
   <p style={{ padding: 0, margin: 0 }}>
     <iframe
-      src="https://padlet.com/embed/6r1rdp2ckyvkqyfp/slideshow?autoplay=1&loop=1&duration=3"
+      src="https://padlet.com/embed/6r1rdp2ckyvkqyfp/slideshow?autoplay=1&loop=1&duration=2"
       frameBorder="0"
       allow="clipboard-write"
       style={{
