@@ -21,7 +21,7 @@ const Portfolio = () => {
 
   return (
     <section 
-      id="galeria" 
+      id="santissimo" 
       className="py-20 md:py-32 bg-cover bg-center bg-no-repeat"
       style={{ backgroundImage: `url(${marbleBackground})` }}
     >
