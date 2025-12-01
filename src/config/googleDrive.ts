@@ -5,5 +5,7 @@ export const DRIVE_FOLDERS = {
   santissimosacramento: "1fp-YXJfQSODDRjvKiCcHE_POQVG4nLF_",
   coordenadores: "1SWLjdLgIIvnt8KYksc094KrTUDwc8JIF",
   depoimentos: "1xRBexIKb3vr7QeswiDlc3dIhP8uP9gy5",
-  galeria: "1hkX1tLV5cGc0Js2gjE_8PLkk1bznhqAn",
+  galeria: "1hkX1tLV5cGc0Js2gjE_8PLkk1bznhqA",
 } as const;
+
+"Colocar o n no final do id Da galeria"
