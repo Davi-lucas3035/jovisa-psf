@@ -3,7 +3,7 @@ const Testimonials = () => {
     <section className="py-20 md:py-32 bg-foreground text-background">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight mb-12 text-center">
-          COMENTÁRIOS DE SERVOS 
+          NOSSOS SERVOS 
         </h2>
         
         <div className="max-w-6xl mx-auto">
