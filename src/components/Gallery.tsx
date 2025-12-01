@@ -64,7 +64,7 @@ const Gallery = () => {
           {/* Left - Title */}
           <div>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight">
-              GALERIA JOVISA!
+              EM BREVE!
             </h2>
           </div>
 
